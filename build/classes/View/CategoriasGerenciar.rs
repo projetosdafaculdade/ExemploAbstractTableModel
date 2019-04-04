@@ -1,0 +1,13 @@
+view.CategoriasGerenciar$10
+view.CategoriasGerenciar$11
+view.CategoriasGerenciar$12
+view.CategoriasGerenciar$9
+view.CategoriasGerenciar$6
+view.CategoriasGerenciar$5
+view.CategoriasGerenciar$8
+view.CategoriasGerenciar$7
+view.CategoriasGerenciar$2
+view.CategoriasGerenciar
+view.CategoriasGerenciar$1
+view.CategoriasGerenciar$4
+view.CategoriasGerenciar$3

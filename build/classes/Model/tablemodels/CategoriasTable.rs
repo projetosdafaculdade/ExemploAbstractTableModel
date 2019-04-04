@@ -1,0 +1,2 @@
+model.tablemodels.CategoriasTable
+model.tablemodels.CategoriasTable$Constantes
